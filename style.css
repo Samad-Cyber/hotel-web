@@ -84,7 +84,7 @@ p{
 }
 
 #showcase{
-  background-image: url(../img/showcase.jpg);
+  background-image: url("showcase.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
