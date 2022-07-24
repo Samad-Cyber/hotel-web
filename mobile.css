@@ -1,0 +1,104 @@
+/* Navbar part  */
+#navbar h1{
+  float: none;
+  padding-top: 10px;
+  text-align: center;
+}
+#navbar ul{
+  list-style: none;
+  float: none;
+}
+#navbar ul li{
+  float: none;
+}
+#navbar ul li a{
+  display: block;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Showcase part */
+.showcase-content .hero-title{
+  text-align: center;
+  margin: 1rem 0rem;
+}
+.showcase-content .hero-paragraph{
+  font-size: 1.5rem;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+#home-info{
+  height: 23rem;
+}
+#home-info .info-img{
+  display: none;
+}
+#home-info .info-content{
+  float: none;
+  width: 100vw;
+  overflow: none;
+  text-align: center;
+  padding-top: 2rem;
+}
+#home-info .info-content .home-paragrah{
+  padding-bottom: 2rem; 
+}
+
+#box{
+  float: none;
+  width: 100vw;
+  padding: 2.5rem 1.8rem; 
+}
+
+/* About  */
+
+#about-info .left-info{
+  float: none;
+  width: 100vw;
+  text-align: center;
+  padding: 0.6rem 0.5rem;
+}
+#about-info .paragraph-design{
+  text-align: justify;
+}
+#about-info .right-info{
+  float: none;
+  width: 100vw;
+  min-height: 100%;
+}
+#about-info .right-info img{
+  display: block;
+  width: 100%;
+  padding: 1rem 1rem;
+}
+#testimonials{
+  height: 100vh;
+  background-image: url(../img/test-bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 1rem 1rem;
+}
+#testimonials .testimonial{
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border-radius: 0.8rem;
+}
+#testimonials h1{
+  text-align: center;
+  color: #fff;
+  padding-bottom: 2rem;
+  font-size: 2rem;
+}
+#contact-info{
+  padding: 0px;
+}
+#main-fotter{
+  text-align: center;
+  background: #444;
+  color: #fff;
+  padding: 0.5rem;
+  font-weight: 500;
+  height: 7vh;
+}
