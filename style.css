@@ -129,7 +129,7 @@ p{
 #home-info .info-img{
   float: left;
   width: 50%;
-  background-image: url(../img/photo-1.jpg);
+  background-image: url("photo-1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -195,6 +195,7 @@ p{
 
 #about-info .about-container{
   background-color: rgb(206, 204, 204);
+  padding: 0 6rem;
 }
 #about-info .left-info{
   float: left;
@@ -218,7 +219,7 @@ p{
 /* Testimonials */
 #testimonials{
   height: 600px;
-  background-image: url(../img/test-bg.jpg);
+  background-image: url("test-bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
